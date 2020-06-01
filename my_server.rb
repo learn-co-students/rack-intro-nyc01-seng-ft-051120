@@ -1,0 +1,3 @@
+gets "/" do
+    "hello"
+end
